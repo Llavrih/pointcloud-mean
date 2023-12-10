@@ -12,3 +12,4 @@ This repository contains a ROS2 node implementation for calculating and publishi
 - ROS2 (Tested on ROS2 Humble)
 - Python 3
 - Numpy
+![ezgif com-video-to-gif](https://github.com/Llavrih/pointcloud-mean/assets/99958904/e65b0804-4869-466e-a2a5-97062df41474)
